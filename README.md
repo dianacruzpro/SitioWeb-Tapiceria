@@ -13,13 +13,8 @@ It also has an administration module for the site where you can do CRUD. In addi
 
 **Server:** 🟣PHP | 🔵MySQL
 
-
-## Sponsor 💛
-
 Give a ⭐ if you like this website!
 <br>
-
-<a href="https://www.buymeacoffee.com/DianaVCruz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ## Screenshots
 ![Tapiceria](https://user-images.githubusercontent.com/98240550/184265338-68d0369c-741d-4002-916b-f4c75adb9bbb.PNG)
